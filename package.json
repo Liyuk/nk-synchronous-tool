@@ -1,0 +1,27 @@
+{
+  "name": "nk-synchronous-tool",
+  "version": "1.0.0",
+  "description": "web crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liyuk/nk-synchronous-tool.git"
+  },
+  "keywords": [
+    "crawler",
+    "nankai"
+  ],
+  "author": "liyuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Liyuk/nk-synchronous-tool/issues"
+  },
+  "homepage": "https://github.com/Liyuk/nk-synchronous-tool#readme",
+  "dependencies": {
+    "html2markdown": "^1.1.0",
+    "puppeteer": "^1.4.0"
+  }
+}
